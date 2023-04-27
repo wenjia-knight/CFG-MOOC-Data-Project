@@ -23,3 +23,8 @@ Your task is to write a Python program that reads in a CSV file containing the s
 
 - Use Matplotlib or Seaborn to create detailed graphs of the sales data
 - Calculate additional metrics (e.g. median sale price, standard deviation of sale prices)
+
+## Congratulations on completing the Intro to Python for Data Challenge. Here's some feedback on your submission from our in-house instructors:
+* Expected to tell about the problem, your approach, your innovations, your learning outcomes
+* Presentation style could be worked on in terms of engagement
+* Calculated some extra statistics, so well done on that
